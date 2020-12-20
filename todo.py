@@ -1,5 +1,3 @@
-from datetime import date
-
 print('``````````````` type "help" to know the commands ```````````````')
 
 start = 1
