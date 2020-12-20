@@ -74,3 +74,10 @@ Use the `report` command to see the latest tally of pending and completed todos.
 ```
 $ ./todo report
 Pending: 2 Completed: 3
+```
+
+
+## Screenshot of a working project
+
+![Screenshot (309)](https://user-images.githubusercontent.com/61161878/102715575-6a724e80-42fc-11eb-915c-7d5f8900792c.png)
+
