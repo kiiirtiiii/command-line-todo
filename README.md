@@ -2,6 +2,7 @@ A command-line program that lets you manage your todos.
 
 - It uses file handling hence, the tasks are preserved for the next time you open the application.
 
+
 ## Usage
 
 ### 1. Help
@@ -19,6 +20,7 @@ del "NUMBER"    # Delete a todo
 done "NUMBER"   # Complete a todo
 help            # Show usage
 report          # Statistics
+close           # Close the application
 ```   
 
 ### 2. List all pending todos
@@ -86,6 +88,18 @@ Use the `report` command to see the latest tally of pending and completed todos.
 
 ```
 Pending: 2 Completed: 3
+```
+
+### 7. Close the application
+
+Use `close` command to close the application.
+
+> close
+
+```
+Are you sure, you want to close the application?
+Press "enter" to confirm
+Press "any key" to decline
 ```
 
 
