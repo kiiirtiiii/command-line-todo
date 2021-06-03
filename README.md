@@ -105,3 +105,11 @@ Press "any key" to decline
 
 ## Screenshot of a working project
 
+### Command line to do list:
+
+![ss of cmd](https://user-images.githubusercontent.com/61161878/120613626-08557200-c474-11eb-9117-d47b9982e6b0.jpg)
+
+
+### Text files created:
+
+![Screenshot (23)](https://user-images.githubusercontent.com/61161878/120613679-12777080-c474-11eb-9414-3a0b19576b6a.png)
